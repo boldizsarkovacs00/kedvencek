@@ -1,0 +1,44 @@
+footer
+{
+    text-align: center;
+}
+.fo{
+    text-align: center;
+}
+body
+{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-attachment: fixed;
+    background-color: black;
+}
+#hatter
+{
+    background-color: white ;
+    padding: 5px;
+    opacity: 80%;
+    position: center;
+    text-align: center;
+}
+img{
+    opacity: 100%;
+}
+#imgb{
+    size: 50px;
+}
+.ag1{
+    text-align: center;
+}
+h3{
+    text-align: 50%;
+}
+.kep{
+    width: 500px;
+    border: solid 3px black;
+    border-radius: 5%;
+}
+.teto{
+    margin-top: 20px;
+}
+h1 { font-family: MedievalSharp; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: MedievalSharp; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: MedievalSharp; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: MedievalSharp; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: MedievalSharp; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; }
